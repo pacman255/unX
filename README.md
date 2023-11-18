@@ -64,7 +64,7 @@ run executable
 
 ## :handshake: Contact
 
-pacman - [@twitter_handle](https://twitter.com/pacman_255) -
+pacman - [@twitter](https://twitter.com/pacman_255) -
 
 Project Link: 
 [https://github.com/pacman255/unX](https://github.com/pacman255/unX)
