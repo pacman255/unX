@@ -1,8 +1,8 @@
 <div align='center'>
 
 <img 
-src=https://1.gravatar.com/userimage/242825352/d5ae6a992cb312bcaa941f640ecd45ec?size=original 
-alt="logo" width= height= />
+src="https://1.gravatar.com/userimage/242825352/d5ae6a992cb312bcaa941f640ecd45ec?size=original"
+alt="logo"/>
 
 <h1>v2ray XUI panel cracker</h1>
 <p>a simple and fast v2ray vpn xui admin panel cracker built with 
